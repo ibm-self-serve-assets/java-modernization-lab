@@ -101,7 +101,7 @@ This lab showcases the complete journey from legacy Struts 1.x + SQLite to moder
 ## 4. Lab Steps
 
 ### 4.1 Import Project into Bob Workspace
-1. Download the ‘java-modernization-demo’ from [https://github.ibm.com/ecosystem-engineering-lab/java-modernization-demo](https://github.ibm.com/ecosystem-engineering-lab/java-modernization-demo).
+1. Download the ‘java-modernization-demo’ from [https://github.com/ibm-self-serve-assets/java-modernization-lab](https://github.com/ibm-self-serve-assets/java-modernization-lab).
 2. Go to IBM Bob and open the folder `java-modernization-demo`.
 
 ![Importing Project](images/image2.png)
